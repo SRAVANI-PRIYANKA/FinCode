@@ -1,0 +1,2 @@
+# FinCode
+daily coding pratice
